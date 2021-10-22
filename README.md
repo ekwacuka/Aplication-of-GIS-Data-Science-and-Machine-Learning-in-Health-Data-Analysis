@@ -1,4 +1,4 @@
-# Aplication-of-GIS-Data-Science-and-Machine-Learning-in-Health-Data-Analysis
+# Application_of_GIS_DataScience_and_Machine_Learning_in_Health_Data_Analysis
 
 ### Data used in this project was retrieved from: owid-datasets 
 
